@@ -2,7 +2,7 @@
 
 Welcome to the official **jabberBrain** GitHub organization — the engineering hub behind **Bionic Chat**, our hybrid AI + human chatbot revolutionizing e-commerce support.
 
-> 💬 Turning conversations into conversions.
+> 💬 Transforming business through engaging conversations
 
 ---
 
@@ -26,10 +26,3 @@ Welcome to the official **jabberBrain** GitHub organization — the engineering 
 * 🧠 **Session Engine** – Powers seamless, stateful chatbot interactions.
 * 🌊 **[jB-datalake](https://github.com/jabberBrain/jB-datalake)** – Unified data lakehouse using Trino + Iceberg for real-time analytics.
 * 🛠️ **Utilities & Tooling** – Internal tools, configs, and libraries supporting the jabberBrain ecosystem.
-
----
-
-## 🌐 Learn More
-
-Ready to boost your shop’s support game?
-👉 [Visit jabberBrain.ai](https://www.jabberbrain.ai) to see Bionic Chat in action.
