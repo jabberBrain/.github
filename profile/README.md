@@ -1,4 +1,4 @@
-# 🧠 jabberBrain on GitHub
+# 🧠 jabberBrain
 
 Welcome to the official **jabberBrain** GitHub organization — the engineering hub behind **Bionic Chat**, our hybrid AI + human chatbot revolutionizing e-commerce support.
 
@@ -8,7 +8,7 @@ Welcome to the official **jabberBrain** GitHub organization — the engineering 
 
 ## 🚀 What We Do
 
-**jabberBrain** helps online businesses scale support, boost customer satisfaction, and cut costs — all through the power of intelligent chat. Our flagship product, **[Bionic Chat](https://www.jabberbrain.ai/)**, blends **AI automation** with **human insight** for fast, personalized, 24/7 customer interactions.
+**jabberBrain** helps online businesses scale support, boost customer satisfaction, and cut costs — all through the power of intelligent chat. Our flagship product, **[Bionic Chat](https://www.jabberbrain.ai/)**, is the perfect blend of Advanced Chatbot Technology and Human Intelligence for fast, personalized, 24/7 customer interactions.
 
 ---
 
@@ -17,12 +17,3 @@ Welcome to the official **jabberBrain** GitHub organization — the engineering 
 * 🤖 **Automated Replies** – Handle up to 80% of common questions instantly.
 * 💸 **Efficient Support** – Premium customer service, minimal cost.
 * 🧑‍💻 **Hybrid Intelligence** – AI does the heavy lifting; humans handle the edge cases.
-
----
-
-## 🧰 Repositories You’ll Find Here
-
-* 📊 **[jB-Superset](https://github.com/jabberBrain/jB-Superset)** – Custom fork of Apache Superset, with chat data integration and dashboard enhancements.
-* 🧠 **Session Engine** – Powers seamless, stateful chatbot interactions.
-* 🌊 **[jB-datalake](https://github.com/jabberBrain/jB-datalake)** – Unified data lakehouse using Trino + Iceberg for real-time analytics.
-* 🛠️ **Utilities & Tooling** – Internal tools, configs, and libraries supporting the jabberBrain ecosystem.
