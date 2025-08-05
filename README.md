@@ -1,7 +1,3 @@
-Here’s a revamped version of your GitHub organization README. It’s more concise, has stronger visual "pop" with emojis, and uses energetic, professional language to make the page more engaging:
-
----
-
 # 🧠 jabberBrain on GitHub
 
 Welcome to the official **jabberBrain** GitHub organization — the engineering hub behind **Bionic Chat**, our hybrid AI + human chatbot revolutionizing e-commerce support.
@@ -37,7 +33,3 @@ Welcome to the official **jabberBrain** GitHub organization — the engineering 
 
 Ready to boost your shop’s support game?
 👉 [Visit jabberBrain.ai](https://www.jabberbrain.ai) to see Bionic Chat in action.
-
----
-
-*This page reflects the status as of **August 5, 2025**. For the latest info, check our website or individual repos.*
